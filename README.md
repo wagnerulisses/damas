@@ -17,5 +17,5 @@ Com base no projeto apresentado, é esperado a criação de outro projeto com ut
 PHPCS
 - Baixar o arquivo .phar em {https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar}
 - ou instalar o phpcs {https://github.com/squizlabs/PHP_CodeSniffer}
-- e executar o comando: php phpcs .
+- e executar o comando: php phpcs.phar diretorio_principal --standard=PSR2
 - com o objetivo de diminuir ao máximo as mensagens de inconsistência
