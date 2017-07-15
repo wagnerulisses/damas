@@ -13,3 +13,9 @@ Com base no projeto apresentado, é esperado a criação de outro projeto com ut
 - Possuir pelo menos uma classe que herde outra classe
 - Todas as classes que forem instanciadas precisam possuir interfaces criadas
 - Em pelo menos uma das classes ou método, deve ser utilizado final
+
+PHPCS
+- Baixar o arquivo .phar em {https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar}
+- ou instalar o phpcs {https://github.com/squizlabs/PHP_CodeSniffer}
+- e executar o comando: php phpcs .
+- com o objetivo de diminuir ao máximo as mensagens de inconsistência
